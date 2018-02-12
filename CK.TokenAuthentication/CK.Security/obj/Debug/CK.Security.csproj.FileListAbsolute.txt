@@ -1,0 +1,15 @@
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\CK.Security.dll
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\CK.Security.pdb
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\Microsoft.Owin.dll
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\Microsoft.Owin.Security.dll
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\Newtonsoft.Json.dll
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\Owin.dll
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\Microsoft.Owin.xml
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\Microsoft.Owin.Security.xml
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\bin\Debug\Newtonsoft.Json.xml
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\obj\Debug\CK.Security.csprojResolveAssemblyReference.cache
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\obj\Debug\CK.Security.csproj.CoreCompileInputs.cache
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\obj\Debug\CK.Security.dll
+D:\Github\WebApiOAuth2Authentication\CK.TokenAuthentication\CK.Security\obj\Debug\CK.Security.pdb
