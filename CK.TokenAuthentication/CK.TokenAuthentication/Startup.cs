@@ -24,7 +24,7 @@ namespace CK.TokenAuthentication
             {
                 AllowInsecureHttp = true,
                 TokenEndpointPath = new PathString("/token"),
-                AccessTokenExpireTimeSpan = TimeSpan.FromMinutes(1),
+                AccessTokenExpireTimeSpan = TimeSpan.FromHours(1),
                 Provider= new CKAccessTokenProvider(),
                 RefreshTokenProvider= new CKRefreshTokenProvider()
             });

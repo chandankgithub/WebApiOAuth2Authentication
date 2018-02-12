@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK.TokenAuthentication", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK.Security", "CK.Security\CK.Security.csproj", "{6C92207B-34E4-4AB4-98A6-DE26B34892E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK.AnotherWebApi", "CK.AnotherWebApi\CK.AnotherWebApi.csproj", "{45EBFB2B-B1E7-4746-8319-D666F699909E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6C92207B-34E4-4AB4-98A6-DE26B34892E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C92207B-34E4-4AB4-98A6-DE26B34892E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C92207B-34E4-4AB4-98A6-DE26B34892E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45EBFB2B-B1E7-4746-8319-D666F699909E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EBFB2B-B1E7-4746-8319-D666F699909E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EBFB2B-B1E7-4746-8319-D666F699909E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EBFB2B-B1E7-4746-8319-D666F699909E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
